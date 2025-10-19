@@ -1,0 +1,19 @@
+{
+  "latest": {
+    "version": "1.3.0-beta.1",
+    "build_date": "2025-10-21T10:00:00Z",
+    "min_hw": "esp32-s3",
+    "min_fw": "1.2.0",
+    "channel": "beta",
+    "notes": "New features (BETA): Enhanced OTA system"
+  },
+  "files": {
+    "bin_url": "https://github.com/AutomatonRoboticsEdu/ATM-Beras-ESP32/releases/download/v1.3.0-beta.1/firmware-v1.3.0-beta.1.bin",
+    "sha256": ""
+  },
+  "meta": {
+    "signature": "",
+    "size_bytes": 0,
+    "changelog_url": "https://github.com/AutomatonRoboticsEdu/ATM-Beras-ESP32/releases/tag/v1.3.0-beta.1"
+  }
+}
