@@ -9,11 +9,11 @@
   },
   "files": {
     "bin_url": "https://github.com/AutomatonRoboticsEdu/ATM-Beras-ESP32/releases/download/v1.2.3/firmware-v1.2.3.bin",
-    "sha256": ""
+    "sha256": "9089dbc43c8742a0e669528871e68d3005456412f148c6b3df00e29ff15faba7"
   },
   "meta": {
     "signature": "",
-    "size_bytes": 0,
+    "size_bytes": 1741968,
     "changelog_url": "https://github.com/AutomatonRoboticsEdu/ATM-Beras-ESP32/releases/tag/v1.2.3"
   }
 }
