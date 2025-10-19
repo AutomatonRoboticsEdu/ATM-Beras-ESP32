@@ -1,0 +1,19 @@
+{
+  "latest": {
+    "version": "1.2.3",
+    "build_date": "2025-10-20T07:30:00Z",
+    "min_hw": "esp32-s3",
+    "min_fw": "1.0.0",
+    "channel": "stable",
+    "notes": "Bug fixes and performance improvements"
+  },
+  "files": {
+    "bin_url": "https://github.com/AutomatonRoboticsEdu/ATM-Beras-ESP32/releases/download/v1.2.3/firmware-v1.2.3.bin",
+    "sha256": ""
+  },
+  "meta": {
+    "signature": "",
+    "size_bytes": 0,
+    "changelog_url": "https://github.com/AutomatonRoboticsEdu/ATM-Beras-ESP32/releases/tag/v1.2.3"
+  }
+}
