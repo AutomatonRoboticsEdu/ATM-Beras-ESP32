@@ -1,19 +1,19 @@
 {
   "latest": {
-    "version": "1.2.3",
-    "build_date": "2025-10-20T07:30:00Z",
+    "version": "3.1.0",
+    "build_date": "2025-10-27T22:00:00Z",
     "min_hw": "esp32-s3",
-    "min_fw": "1.0.0",
+    "min_fw": "3.0.0",
     "channel": "stable",
-    "notes": "Bug fixes and performance improvements"
+    "notes": "STABLE RELEASE: HTTP 302 redirect fix for POST logging, all features verified and tested. Production ready."
   },
   "files": {
-    "bin_url": "https://github.com/AutomatonRoboticsEdu/ATM-Beras-ESP32/releases/download/v1.2.3/firmware-v1.2.3.bin",
-    "sha256": "9089dbc43c8742a0e669528871e68d3005456412f148c6b3df00e29ff15faba7"
+    "bin_url": "https://github.com/AutomatonRoboticsEdu/ATM-Beras-ESP32/releases/download/v3.1.0/firmware-v3.1.0.bin",
+    "sha256": "1f06704227aa7733efeb46a92ec80a5544a89918b0a2fc16e6e36c03a913776a"
   },
   "meta": {
     "signature": "",
-    "size_bytes": 1741968,
-    "changelog_url": "https://github.com/AutomatonRoboticsEdu/ATM-Beras-ESP32/releases/tag/v1.2.3"
+    "size_bytes": 1788192,
+    "changelog_url": "https://github.com/AutomatonRoboticsEdu/ATM-Beras-ESP32/releases/tag/v3.1.0"
   }
 }
